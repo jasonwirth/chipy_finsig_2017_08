@@ -1,0 +1,9 @@
+Set-Cookie: CG=US:IL:Bartlett; path=/
+Vary: Accept-Encoding, User-Agent
+Date: Sat, 02 Sep 2017 16:17:38 GMT
+Expires: Sat, 02 Sep 2017 16:18:26 GMT
+Content-Encoding: gzip
+Server: nginx
+Cache-Control: max-age=60, private
+X-Ua-Profile: desktop
+Content-Type: text/html;charset=UTF-8

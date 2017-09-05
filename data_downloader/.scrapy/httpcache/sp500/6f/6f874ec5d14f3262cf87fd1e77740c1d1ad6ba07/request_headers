@@ -1,0 +1,6 @@
+Cookie: CG=US:IL:Bartlett
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip,deflate
+Accept-Language: en
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Referer: http://money.cnn.com/data/markets/sandp/?page=33
